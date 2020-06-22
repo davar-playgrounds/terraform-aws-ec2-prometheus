@@ -14,6 +14,17 @@ For Terraform v0.12.0+
 ## Infrastructure
 ![GitHub Logo](https://github.com/ghalwash/terransible-aws-ec2-prometheus/blob/master/Infra.PNG)
 ## Usage
+Quick start
+
+Note: These examples deploy resources into your AWS account. The used resources need to be changed if you want to go with  free tire servers.
+
+    Install Terraform.
+    Set your AWS credentials as the environment variables AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY.
+    cd into one of the example folders.
+    Run terraform init.
+    Run terraform apply.
+    To clean up and delete all resources after you're done, run terraform destroy.
+
 
 `
 ## Examples
