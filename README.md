@@ -5,7 +5,7 @@ Docker hosts and containers monitoring with Prometheus, Grafana, custum node exp
 [![open-pr](https://img.shields.io/github/issues-pr-raw/ghalwash/terransible-aws-ec2-prometheus?style=for-the-badge)](https://github.com/ghalwash/terransible-aws-ec2-prometheus/pulls)
 
 ## Features
-This module contains sample Terraform configurations and automation scripts that can be used to create two aws instances in the same VPC with one security group. The First server uses [dockprom](https://github.com/stefanprodan/dockprom) repository to run prometheus, grafana and alertmanager on docker containers. The second is a monitoring hub to extract icon-network metrics using custumized [icon exporter] (https://github.com/ghalwash/icon-prometheus-exporter) of different nodes. 
+This module contains sample Terraform configurations and automation scripts that can be used to create two aws instances in the same VPC with one security group. The First server uses [dockprom](https://github.com/stefanprodan/dockprom) to run prometheus, grafana and alertmanager on docker containers. The second is a monitoring hub to extract icon-network metrics using custumized [icon exporter] (https://github.com/ghalwash/icon-prometheus-exporter) of different nodes. 
 
 ## Terraform Versions
 
