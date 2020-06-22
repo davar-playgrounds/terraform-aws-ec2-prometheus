@@ -40,7 +40,7 @@ Module managed by [ghalwash](https://github.com/ghalwash)
 ## Credits
 
 - [Anton Babenko](https://github.com/antonbabenko)
-- [Stefan Prodan] https://github.com/stefanprodan
+- [Stefan Prodan](https://github.com/stefanprodan)
 
 
 ## License
