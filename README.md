@@ -15,12 +15,7 @@ For Terraform v0.12.0+
 ![GitHub Logo](https://github.com/ghalwash/terransible-aws-ec2-prometheus/blob/master/Infra.PNG)
 ## Usage
 
-```
-module "this" {
-    source = "github.com/ghalwash/terransible-aws-ec2-prometheus"
-
-}
-```
+`
 ## Examples
 
 - [defaults](https://github.com/ghalwash/terransible-aws-ec2-prometheus/tree/master/examples/defaults)
@@ -45,6 +40,7 @@ Module managed by [ghalwash](https://github.com/ghalwash)
 ## Credits
 
 - [Anton Babenko](https://github.com/antonbabenko)
+- [Stefan Prodan] https://github.com/stefanprodan
 
 
 ## License
