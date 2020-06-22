@@ -13,8 +13,8 @@ For Terraform v0.12.0+
 
 ## Infrastructure
 ![GitHub Logo](https://github.com/ghalwash/terransible-aws-ec2-prometheus/blob/master/Infra.PNG)
-## Usage
-Quick start
+
+## Quick start
 
 Note: These examples deploy resources into your AWS account. The used resources need to be changed if you want to go with  free tire servers.
 
