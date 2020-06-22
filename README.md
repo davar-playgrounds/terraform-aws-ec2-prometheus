@@ -1,4 +1,4 @@
-# terransible-aws-ec2-prometheus
+# Terraform infra for prometheus alertmanager and grafana
 Docker hosts and containers monitoring with Prometheus, Grafana, custum node exporter and AlertManager
 
 [![open-issues](https://img.shields.io/github/issues-raw/ghalwash/terransible-aws-ec2-prometheus?style=for-the-badge)](https://github.com/ghalwash/terransible-aws-ec2-prometheus/issues)
