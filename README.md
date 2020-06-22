@@ -25,12 +25,9 @@ module "this" {
 
 - [defaults](https://github.com/ghalwash/terransible-aws-ec2-prometheus/tree/master/examples/defaults)
 
-## Known  Issues
-No issue is creating limit on this module.
-
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
-
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+## Setup CLUSTER
+(1 nodes) EC2 nodes m4.large ( 3 docker Container running Prometheus, AlertManager and grafana) 
+(2 node) EC2 nodes m4.large monitoring hub
 
 ## Testing
 This module has been packaged with terratest tests
