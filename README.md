@@ -11,6 +11,8 @@ This module contains sample Terraform configurations and automation scripts that
 
 For Terraform v0.12.0+
 
+## Infrastructure
+[Infra](https://github.com/ghalwash/terransible-aws-ec2-prometheus/blob/master/Infra.PNG)
 ## Usage
 
 ```
